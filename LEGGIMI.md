@@ -21,7 +21,7 @@ Per lo svilluppo di questo progetto è stata deciso di utilizzare **[REACT](http
 
 Dentro una cartella eseguire i seguenti passaggi:
 
-* Installare **REACT** seguendo le seguenti istruzioni:
+* Installare **REACT**:
   ```
 
   npx create-react-app [nome dell'app]
@@ -42,7 +42,7 @@ Dentro una cartella eseguire i seguenti passaggi:
   
   
   
-* Installare **STRAPI** seguendo le seguenti istruzioni:
+* Installare **STRAPI**:
   
   ``` 
   
