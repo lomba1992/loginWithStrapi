@@ -78,28 +78,10 @@ Per farsi che il tutto funzioni dobbiamo apportare ancora **due modifiche**
 
 * Entrare nel backend di **Strapi** ed entrare in **Roles and Permission** > **Authenticated** > scrollare tutta la pagina, aprire la tenda **Users Permission** e inserire nel campo Auth i seguenti campi.
 
-* Come seconda fase devi sostituire gli url con  quello del tuo database creato in strapi (per comodità di ricerca le righe in questione hanno di fianco il commento CAMBIAMI. Usa ctrl + F per trovarli velocemente).
+* Come seconda fase devi sostituire gli url con  quello del tuo database creato in strapi (con ctrl + F cerca la seguente parola '[InsertUrlStrapi]').
 
 
 **Una volta eseguito tutti questi passaggi sarà tutto pronto. (All'interno del file troverai dei commenti che spiegano l'utilità delle funzioni interne ai file)**
 
 #### Buon Divertimento!!!
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
