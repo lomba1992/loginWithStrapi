@@ -57,7 +57,7 @@ Dentro una cartella eseguire i seguenti passaggi:
   
   ```
   
-  _per maggiori informazioni andare su https://reactjs.org/_
+  _per maggiori informazioni andare su https://strapi.io/_
   
    Per le chiamate alle API **STRAPI** consiglia di installare il seguente plugin da installare all'interno della cartella di        **REACT**
 
