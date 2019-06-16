@@ -2,18 +2,18 @@
 
 Per la versione Italiana clicca **[QUI](https://github.com/lomba1992/loginWithStrapi/blob/master/LEGGIMI.md)**
 
-**HYP** è il prototipo di una web app che ha come obiettivo di migliorare la comunicazione tra gli studenti e la scuola.
+**HYP** is the prototype of a web app that aims to improve communication between students and the school..
 
-Link al sito: [HYP](https://happy-beaver-hyp.netlify.com/) 
-Link al repository: [GitHub-Hyp](https://github.com/icate95/HYP2)
+Site's link: [HYP](https://happy-beaver-hyp.netlify.com/) <br/>
+Repository's link: [GitHub-Hyp](https://github.com/icate95/HYP2)
 
-In questa documentazione illustrerò la realizzazione del **componente di login**.
+In this documentation I will illustrate the realization of the ** login component **.
 
 #
 
-### TECNOLOGIA USATA
+### USED TECHNOLOGY
 
-Per lo svilluppo di questo progetto è stata deciso di utilizzare **[REACT](https://reactjs.org/)** per la parte di frontend e **[STRAPI](https://strapi.io/documentation/3.0.0-beta.x/)** per la parte di backend.
+For the development of this project it was decided to use **[REACT] (https://reactjs.org/)** for the frontend part and **[STRAPI] (https://strapi.io/documentation/3.0.0-beta.x/)** for the backend part.
 
 #
 
