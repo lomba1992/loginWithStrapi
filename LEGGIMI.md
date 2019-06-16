@@ -1,5 +1,7 @@
 ### LOGIN WITH STRAPI FOR HYP SITE
 
+For English version click **[HERE](https://github.com/lomba1992/loginWithStrapi/edit/master/README.md)**
+
 **HYP** è il prototipo di una web app che ha come obiettivo di migliorare la comunicazione tra gli studenti e la scuola.
 
 Link al sito: [HYP](https://happy-beaver-hyp.netlify.com/) 
@@ -30,7 +32,7 @@ Dentro una cartella eseguire i seguenti passaggi:
   _per maggiori informazioni andare su https://reactjs.org/_
   
   
-  Per utilizzare lo stile di questo componente dovete installare all'interno della cartella di **React** anche la librearia **       [Node-SASS](https://www.npmjs.com/package/node-sass)**
+  Per utilizzare lo stile di questo componente dovete installare all'interno della cartella di **React** anche la librearia **[Node-SASS](https://www.npmjs.com/package/node-sass)**
 
   ```
 
