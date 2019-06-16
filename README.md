@@ -17,11 +17,11 @@ For the development of this project it was decided to use **[REACT] (https://rea
 
 #
 
-### PER INIZIARE 
+### START 
 
-Dentro una cartella eseguire i seguenti passaggi:
+Create a folder and follow the steps:
 
-* Installare **REACT**:
+* Install **REACT**:
   ```
 
   npx create-react-app [nome dell'app]
@@ -29,10 +29,10 @@ Dentro una cartella eseguire i seguenti passaggi:
   npm start
 
   ```
-  _per maggiori informazioni andare su https://reactjs.org/_
+  _for more details https://reactjs.org/_
   
   
-  Per utilizzare lo stile di questo componente dovete installare all'interno della cartella di **React** anche la librearia **[Node-SASS](https://www.npmjs.com/package/node-sass)**
+ Use the style of this component, you must also install the library inside the ** React ** folder **[Node-SASS](https://www.npmjs.com/package/node-sass)**
 
   ```
 
@@ -42,14 +42,14 @@ Dentro una cartella eseguire i seguenti passaggi:
   
   
   
-* Installare **STRAPI**:
+* Install **STRAPI**:
   
   ``` 
   
    npm install strapi@beta -g
   
   ```
-  successivamente creare il nuovo database
+  then create the new database
   
   ```
   
@@ -57,9 +57,9 @@ Dentro una cartella eseguire i seguenti passaggi:
   
   ```
   
-  _per maggiori informazioni andare su https://reactjs.org/_
+  _for more details https://strapi.io/_
   
-   Per le chiamate alle API **STRAPI** consiglia di installare il seguente plugin da installare all'interno della cartella di        **REACT**
+   For call to API **STRAPI** recommends installing the following plugin to install in the **REACT**
 
    ```
 
@@ -70,19 +70,19 @@ Dentro una cartella eseguire i seguenti passaggi:
  
  
   
-Se entrambi i passaggi sono andati a buon fine sei pronto per scaricare e configurare il componente che si occuperà del **Login**.
+If both steps are successful you are ready to download and configure the component that will take care of **Login**.
 
-### CONFIGURARE IL COMPONENTE DI LOGIN
+### CONFIGURE THE LOGIN COMPONENT
 
-Una volta scaricato questo Git inserisci i file **Login.jsx** e **Login.scss** all'interno della cartella di React dentro src e successivamente sovrascrivere il file **index.js**.
+Once you have downloaded this Git, insert the **Login.jsx** and **Login.scss** files into the React folder inside src and then overwrite the **index.js** file.
 
-Per farsi che il tutto funzioni dobbiamo apportare ancora **due modifiche**
+To make sure that everything works we still need to make **two changes**
 
-* Entrare nel backend di **Strapi** ed entrare in **Roles and Permission** > **Authenticated** > scrollare tutta la pagina, aprire la tenda **Users Permission** e inserire nel campo Auth i seguenti campi.
+* Enter the ** Strapi ** backend and enter **Roles and Permission**> **Authenticated**> scroll the page, open the **Users Permission** curtain and enter the following fields in the Auth field.
 
-* Come seconda fase devi sostituire gli url con  quello del tuo database creato in strapi (con ctrl + F cerca la seguente parola '[InsertUrlStrapi]').
+* As a second step you need to replace the url with that of your database created in strapi (with ctrl + F look for the following word '[InsertUrlStrapi]').
 
 
-**Una volta eseguito tutti questi passaggi sarà tutto pronto. (All'interno del file troverai dei commenti che spiegano l'utilità delle funzioni interne ai file)**
+**Once all these steps are done, everything will be ready. (Inside the file you will find comments explaining the functions)**
 
-#### Buon Divertimento!!!
+#### ENJOY YOURSELF!!!
