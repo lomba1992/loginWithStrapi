@@ -1,6 +1,6 @@
 ### LOGIN WITH STRAPI FOR HYP SITE
 
-Per la versione Italiana clicca **[QUI](https://github.com/lomba1992/loginWithStrapi/edit/master/LEGGIMI.md)**
+Per la versione Italiana clicca **[QUI](https://github.com/lomba1992/loginWithStrapi/blob/master/LEGGIMI.md)**
 
 **HYP** è il prototipo di una web app che ha come obiettivo di migliorare la comunicazione tra gli studenti e la scuola.
 
