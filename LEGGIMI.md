@@ -6,7 +6,7 @@ For English version click **[HERE](https://github.com/lomba1992/loginWithStrapi/
 
 **HYP** è il prototipo di una web app che ha come obiettivo di migliorare la comunicazione tra gli studenti e la scuola.
 
-Link al sito: [HYP](https://happy-beaver-hyp.netlify.com/) 
+Link al sito: [HYP](https://happy-beaver-hyp.netlify.com/) <br/>
 Link al repository: [GitHub-Hyp](https://github.com/icate95/HYP2)
 
 In questa documentazione illustrerò la realizzazione del **componente di login**.
