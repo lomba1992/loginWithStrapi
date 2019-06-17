@@ -83,6 +83,7 @@ Once you have downloaded this Git, insert the **Login.jsx** and **Login.scss** f
 To make sure that everything works we still need to make **two changes**
 
 * Enter the ** Strapi ** backend and enter **Roles and Permission**> **Authenticated**> scroll the page, open the **Users Permission** curtain and enter the following fields in the Auth field.
+  ![role](https://github.com/lomba1992/loginWithStrapi/blob/master/schermata/roler.png) > ![Auth](https://github.com/lomba1992/loginWithStrapi/blob/master/schermata/authenticated.png) > ![User](https://github.com/lomba1992/loginWithStrapi/blob/master/schermata/userPermission.png) and checked the field ![Check](https://github.com/lomba1992/loginWithStrapi/blob/master/schermata/check.png)
 
 * As a second step you need to replace the url with that of your database created in strapi (with ctrl + F look for the following word '[InsertUrlStrapi]').
 
