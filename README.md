@@ -13,7 +13,7 @@ In this documentation I will illustrate the realization of the ** login componen
 
 ### USED TECHNOLOGY
 
-For the development of this project it was decided to use **[REACT] (https://reactjs.org/)** for the frontend part and **[STRAPI] (https://strapi.io/documentation/3.0.0-beta.x/)** for the backend part.
+For the development of this project it was decided to use **[REACT](https://reactjs.org/)** for the frontend part and **[STRAPI](https://strapi.io/documentation/3.0.0-beta.x/)** for the backend part.
 
 #
 
