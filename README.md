@@ -7,7 +7,7 @@ Per la versione Italiana clicca **[QUI](https://github.com/lomba1992/loginWithSt
 Site's link: [HYP](https://happy-beaver-hyp.netlify.com/) <br/>
 Repository's link: [GitHub-Hyp](https://github.com/icate95/HYP2)
 
-In this documentation I will illustrate the realization of the ** login component **.
+In this documentation I will illustrate the realization of the **login component**.
 
 #
 
