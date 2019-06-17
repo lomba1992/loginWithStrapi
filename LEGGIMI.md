@@ -2,6 +2,8 @@
 
 For English version click **[HERE](https://github.com/lomba1992/loginWithStrapi/blob/master/README.md)**
 
+![HYP](https://github.com/lomba1992/loginWithStrapi/blob/master/schermata/login.png)
+
 **HYP** è il prototipo di una web app che ha come obiettivo di migliorare la comunicazione tra gli studenti e la scuola.
 
 Link al sito: [HYP](https://happy-beaver-hyp.netlify.com/) 
@@ -76,9 +78,12 @@ Se entrambi i passaggi sono andati a buon fine sei pronto per scaricare e config
 
 Una volta scaricato questo Git inserisci i file **Login.jsx** e **Login.scss** all'interno della cartella di React dentro src e successivamente sovrascrivere il file **index.js**.
 
-Per farsi che il tutto funzioni dobbiamo apportare ancora **due modifiche**
+![folder](https://github.com/lomba1992/loginWithStrapi/blob/master/schermata/folder.png)
 
-* Entrare nel backend di **Strapi** ed entrare in **Roles and Permission** > **Authenticated** > scrollare tutta la pagina, aprire la tenda **Users Permission** e inserire nel campo Auth i seguenti campi.
+Per far si che il tutto funzioni dobbiamo apportare ancora **due modifiche**
+
+* Entrare nel backend di **Strapi** ed entrare in **Roles and Permission** > **Authenticated** > scrollare tutta la pagina, aprire la tenda **Users Permission** e inserire nel campo Auth i seguenti campi.<br/>
+  ![role](https://github.com/lomba1992/loginWithStrapi/blob/master/schermata/role.png)<br/> > ![Auth](https://github.com/lomba1992/loginWithStrapi/blob/master/schermata/authenticated.png) > ![User](https://github.com/lomba1992/loginWithStrapi/blob/master/schermata/userPermission.png) e clicca i file interessati ![Check](https://github.com/lomba1992/loginWithStrapi/blob/master/schermata/check.png)
 
 * Come seconda fase devi sostituire gli url con  quello del tuo database creato in strapi (con ctrl + F cerca la seguente parola '[InsertUrlStrapi]').
 
