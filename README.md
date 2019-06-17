@@ -2,6 +2,8 @@
 
 Per la versione Italiana clicca **[QUI](https://github.com/lomba1992/loginWithStrapi/blob/master/LEGGIMI.md)**
 
+![HYP](https://github.com/lomba1992/loginWithStrapi/blob/master/schermata/login.png)
+
 **HYP** is the prototype of a web app that aims to improve communication between students and the school..
 
 Site's link: [HYP](https://happy-beaver-hyp.netlify.com/) <br/>
@@ -75,6 +77,8 @@ If both steps are successful you are ready to download and configure the compone
 ### CONFIGURE THE LOGIN COMPONENT
 
 Once you have downloaded this Git, insert the **Login.jsx** and **Login.scss** files into the React folder inside src and then overwrite the **index.js** file.
+
+![folder](https://github.com/lomba1992/loginWithStrapi/blob/master/schermata/folder.png)
 
 To make sure that everything works we still need to make **two changes**
 
